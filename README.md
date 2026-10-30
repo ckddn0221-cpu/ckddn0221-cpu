@@ -41,3 +41,8 @@ React · Node.js · MySQL · Socket.IO · FastAPI
 답변을 실시간으로 분석해 다음 질문의 난이도와 방향을 바꾸고, 이력서와 대조해 사실 여부까지 확인하는 면접 연습 도구
 
 Next.js · TypeScript · FastAPI · WebSocket · ChromaDB
+
+## Links
+
+- Portfolio : 버튼 - 하이퍼링크
+- Email : [ckddn0221@gmail.com](mailto:ckddn0221@gmail.com)
