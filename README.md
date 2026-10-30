@@ -44,5 +44,5 @@ Next.js · TypeScript · FastAPI · WebSocket · ChromaDB
 
 ## Links
 
-- Portfolio : [바로가기](https://내배포주소.vercel.app)
+- Portfolio : [https://changwoo-portfolio-henna.vercel.app/](https://changwoo-portfolio-henna.vercel.app))
 - Email : [ckddn0221@gmail.com](mailto:ckddn0221@gmail.com)
